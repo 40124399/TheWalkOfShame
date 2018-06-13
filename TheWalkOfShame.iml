@@ -7,17 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/stufff/lwjgl/lwjgl.jar!/" />
-          <root url="jar://$USER_HOME$/Downloads/stufff/lwjgl/lwjgl-natives-windows.jar!/" />
-        </CLASSES>
-        <JAVADOC>
-          <root url="jar://$USER_HOME$/Downloads/stufff/lwjgl/lwjgl-javadoc.jar!/" />
-        </JAVADOC>
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="lwjgl" level="project" />
   </component>
 </module>
